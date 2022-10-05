@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasarım Projesi</string>
+    <string name="appTitle">TweetBook</string>
+    <string name="welcomeText">Arkadaşlarınızla bir araya gelip, yeni arkadaşlar edinebileceğiniz TweetBook\'a hoş geldiniz!</string>
+    <string name="loginUser">Kullanıcı Adı Giriniz</string>
+    <string name="loginPassword">Şifre Giriniz</string>
+    <string name="forgotText">Şifremi Unuttum</string>
+    <string name="rememberText">Beni Hatırla</string>
+    <string name="loginButton">GİRİŞ YAP</string>
+    <string name="extraLogin">veya Bunları Kullanarak Giriş Yap</string>
+</resources>

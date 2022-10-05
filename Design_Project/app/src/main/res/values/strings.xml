@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Design Project</string>
+    <string name="appTitle">TweetBook</string>
+    <string name="welcomeText">Welcome to Tweetbook, where you can reunite with your friends or make new ones.</string>
+    <string name="loginUser">Type Username</string>
+    <string name="loginPassword">Type Password</string>
+    <string name="forgotText">Forgot Password?</string>
+    <string name="rememberText">Remember Me</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="extraLogin">or Login using with</string>
+
+</resources>
